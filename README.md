@@ -4,11 +4,11 @@ This is a sample project that demonstrates the creation of a simple Java chat ap
 
 ## Table of Contents
 
+- [Authors](#authors)
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [Notes](#notes)
-- [Authors](#authors)
 - [License](#license)
 
 ## Authors
