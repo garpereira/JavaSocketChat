@@ -13,8 +13,8 @@ This is a sample project that demonstrates the creation of a simple Java chat ap
 
 ## Authors
 
-- [Matheus Silva](https://github.com/matheuxito)
-- [Gabriel Pereira](https://github.com/garpereira)
+- [Matheus Silva](https://github.com/matheuxito) | [LinkedIn](https://www.linkedin.com/in/matheuxito/)
+- [Gabriel Pereira](https://github.com/garpereira) | [LinkedIn](https://www.linkedin.com/in/garpereira/)
 
 ## Features
 
